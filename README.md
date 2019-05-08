@@ -5,4 +5,4 @@ This is for description of data used in our paper published in Science Bulletin:
 
 •You also can [Downlaod](http://ddl.escience.cn/f/R7gx) the AM map  for all the subjects for your own study. Please remember to email Yong Liu for detail information.
 
-ASAF: Altered Spontaneous Activity Fingerprinting in Alzheimer’s Disease Based on Multisite fMRI (https://www.sciencedirect.com/science/article/pii/S2095927319302683)
+[ASAF: Altered Spontaneous Activity Fingerprinting in Alzheimer’s Disease Based on Multisite fMRI] (https://www.sciencedirect.com/science/article/pii/S2095927319302683)
